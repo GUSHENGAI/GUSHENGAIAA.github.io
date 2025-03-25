@@ -1,18 +1,47 @@
-## GUSHENGAI
-This is a business promotional website of a company. It's a mulitpage website with minimum 5-7 section in every single page. The site is fully responsive and designed with HTML, CSS and Bootstrap. 
+# 欢迎来到 **谷盛**
 
-## Demo
-- Live
-    - [Glozzome](https://mrhrifat.github.io/glozzome)
+谷盛是一家领先的跨境电商服务公司，致力于帮助全球卖家轻松运营亚马逊等平台的在线商店。我们通过一站式解决方案，提供从开店、产品优化到客户服务、营销设计等全方位的支持。无论你是电商新手，还是已有店铺但经营不佳的卖家，我们都能提供量身定制的解决方案，助你成功实现电商梦想。
 
-## How To Contribute
-- Fork the repository.
-- Make your changes.
-- Commit your changes.
-- Create a pull request.
-- Wait for the pull request to be merged.
+## 我们的使命
 
-**Note:** If you want to do a major changes than first create an Issue.
+我们的使命是让全球电商变得更加简单和高效。我们通过专业的辅导、创新的服务和精确的市场洞察，帮助卖家优化运营、增加销售、降低成本，并在竞争激烈的市场中脱颖而出。
 
-## License
-This project is licensed under [GPL-3.0](https://github.com/mrhrifat/glozzome/blob/master/LICENSE.md).
+## 我们的服务
+
+### 1. **电商开店辅导**
+无论你是电商新手还是有一定经验的卖家，我们都提供全程一对一指导。从店铺注册、上架产品到优化店铺，我们帮助你快速建立起一个高效的在线商店。
+
+### 2. **产品优化**
+我们为你的店铺提供专业的产品优化服务，包括标题、图片和详情页的优化，提升产品在亚马逊平台上的曝光率和转化率。
+
+### 3. **客户服务管理**
+我们的客服团队提供全天候的售前售后服务，帮助你处理客户询问、解决问题、增加客户的满意度和忠诚度。
+
+### 4. **美工设计与营销**
+我们提供专业的美工设计服务，包括产品图片、宣传海报和活动页面的制作，确保你的店铺视觉效果引人注目。同时，我们也帮助你制定营销策略，提升销量和品牌曝光。
+
+### 5. **VIP计划**
+我们为优秀的卖家提供独特的VIP计划，提供批发平台接入、跨境物流支持等高级功能，帮助你进一步扩展市场，获取更高的利润。
+
+## 我们的优势
+
+- **全球化视野**：服务覆盖美国、西欧等主要市场，帮助你打入全球电商大市场。
+- **专业导师团队**：我们的导师团队由经验丰富的资深电商卖家组成，他们会为你提供一对一的指导，帮助你克服开店过程中的挑战。
+- **高效供应链**：我们提供从产品采购到物流配送的全程服务，确保你能以最优价格获取最优质的商品。
+- **创新营销策略**：结合社交媒体营销、广告投放等手段，帮助你精准地吸引目标客户。
+
+## 为什么选择谷盛？
+
+- **定制化服务**：根据你的需求和业务目标量身定制一站式服务方案。
+- **高转化率**：我们的优化方案帮助你提升店铺转化率，实现更高的销售额。
+- **持续支持**：我们提供长期的运营支持，确保你的店铺保持健康的成长。
+
+## 联系我们
+
+想要了解更多，或是开启你的电商之旅？  
+联系我们，获取免费的咨询和专属服务！
+
+- **电子邮箱**: [contact@gusheng.com](mailto:contact@gusheng.com)
+- **电话**: +1 800 123 4567
+- **地址**: 新加坡市XX路XX号
+
